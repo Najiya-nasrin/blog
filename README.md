@@ -5,7 +5,7 @@ This project is a simple blog application built with React and Material-UI. It s
 
 ## Demo
 
-You can check out the live demo of this project [here]("https://najiya-nasrin.github.io/react-sample-blog") .
+You can check out the live demo of this project [here] (https://najiya-nasrin.github.io/blog/) .
 
 ## Features
 
