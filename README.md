@@ -14,3 +14,15 @@ You can check out the live demo of this project [here] (https://najiya-nasrin.gi
 - Update: Edit existing blog post
 - Delete: Remove blog post 
 - Material-UI Integration: UI components with responsive design
+
+## How to set up locally
+
+- prerequisites: Nodejs, npm
+- Clone repository to local environment
+- Navigate to project directory
+- npm install
+- npm run dev
+
+# Troubleshooting if incase there are issues: 
+- Vite React Plugin: Ensure the Vite React plugin is installed since it has been used. Install it using:
+npm install @vitejs/plugin-react --save-dev
